@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Siriman12
-- 👀 I’m interested in lean coding.
+- 👀 I’m interested in learn coding.
 - 🌱 I’m currently learning Python and I think it's beautiful.
 - 💞️ I’m looking to collaborate on CODE or Die
 - 📫 How to reach me Catch me if you can. 
